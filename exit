@@ -1,0 +1,17 @@
+[33mcommit bf6f435769377593e9a160d8150de20a0c21852b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: johnlloyd517 <pacisjohnlloyd17@gmail.com>
+Date:   Mon Oct 23 21:02:11 2023 +0800
+
+    2 todo controller, todo model and todo crud routes
+
+[33mcommit 89b63450f2300890760ea08efb7b0f6ad2639685[m
+Author: johnlloyd517 <pacisjohnlloyd17@gmail.com>
+Date:   Mon Oct 23 20:29:45 2023 +0800
+
+    1 create todos-table
+
+[33mcommit ae4cfe6c1fb13271121e02e52a080fcd1e548d25[m
+Author: johnlloyd517 <pacisjohnlloyd17@gmail.com>
+Date:   Mon Oct 23 19:02:26 2023 +0800
+
+    fresh laravel project
